@@ -19,3 +19,11 @@ Data Analyst
 - Python
 - QGIS
 - Geoda
+
+# Research Area
+- Big data analysis
+- Cross-sectional time sereis panel data
+- Disease/pandemic analysis
+- Machine learning/AI analysis
+- Demography
+- GIS
