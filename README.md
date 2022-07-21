@@ -3,14 +3,14 @@
 Sung Jae Kim  
 US Green card  
 Ph.D. Candidate statistics  
-Data Analyst
+Data Analyst  
 
 # Education
-- Wissahickon Senior High Scool
-- Pennsylvania State University (not graduated)  
+- Korea University / Ph.D. Candidate of statistics
+- Korea University / MA of Statistics
 - Korea University
-- Korea University / MA  
-- Korea University / Ph.D. Candidate
+- Pennsylvania State University (not graduated)
+- Wissahickon Senior High Scool  
 
 # Program Language
 - SQL
